@@ -1,0 +1,20 @@
+body{background-image: url("../img/1549438796450.gif")}
+h1{color: #0055ff;
+	margin-left: 15px
+}
+h2{color: #cc0000
+	margin-left :15px
+}
+#nav{
+	border: 3px dashed #ff3333;
+	border-left: 3px dotted
+	border-right :3px dashed;
+	border-top: double;
+	border-bottom: solid;
+	margin: 10px 5px 15px 20px
+	padding :15px 10px 10px 15px;
+}
+
+#nav a {
+	text-decoration: none; color: #
+}
